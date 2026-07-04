@@ -404,6 +404,6 @@ FRONTEND_URL=http://localhost:3000
 ## 👥 Support
 
 For questions or issues:
-- Email: contact@myanvolunteer.org
+- Email: jackstudy.45@gmail.com
 - Issues: GitHub Issues
 
