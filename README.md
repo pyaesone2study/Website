@@ -401,42 +401,9 @@ FRONTEND_URL=http://localhost:3000
    node scripts\createAdmin.js
 ---
 
-### For Website 
-    lt --port 3000
-    lt --port 5000
-    
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a pull request
-
----
-
-## 📄 License
-
-This project is for educational purposes.
-
----
-
 ## 👥 Support
 
 For questions or issues:
 - Email: contact@myanvolunteer.org
 - Issues: GitHub Issues
 
----
-
-## 🙏 Acknowledgments
-
-- Inspired by Idealist.org
-- Built for Myanmar volunteer community
-- Thanks to all contributors
-
----
-
-**Made with ❤️ for Myanmar**
